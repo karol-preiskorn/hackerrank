@@ -1,0 +1,219 @@
+0 can be fitted in:
+* byte
+* short
+* int
+* long
+1 can be fitted in:
+* byte
+* short
+* int
+* long
+-1 can be fitted in:
+* byte
+* short
+* int
+* long
+18446744073709551616 can't be fitted anywhere.
+-18446744073709551616 can't be fitted anywhere.
+18446744073709551615 can't be fitted anywhere.
+-18446744073709551616 can't be fitted anywhere.
+32768 can be fitted in:
+* int
+* long
+-32768 can be fitted in:
+* short
+* int
+* long
+32767 can be fitted in:
+* short
+* int
+* long
+-32767 can be fitted in:
+* short
+* int
+* long
+2147483648 can be fitted in:
+* long
+2147483647 can be fitted in:
+* int
+* long
+-2147483648 can be fitted in:
+* int
+* long
+-2147483647 can be fitted in:
+* int
+* long
+128 can be fitted in:
+* short
+* int
+* long
+127 can be fitted in:
+* byte
+* short
+* int
+* long
+-128 can be fitted in:
+* byte
+* short
+* int
+* long
+-127 can be fitted in:
+* byte
+* short
+* int
+* long
+123123123333333333333333333333333313123123 can't be fitted anywhere.
+234444444444444444444444444444444444444 can't be fitted anywhere.
+-1222222 can be fitted in:
+* int
+* long
+11110000000 can be fitted in:
+* long
+123123 can be fitted in:
+* int
+* long
+123 can be fitted in:
+* byte
+* short
+* int
+* long
+1 can be fitted in:
+* byte
+* short
+* int
+* long
+0 can be fitted in:
+* byte
+* short
+* int
+* long
+4343434324 can be fitted in:
+* long
+-123123 can be fitted in:
+* int
+* long
+-123123123 can be fitted in:
+* int
+* long
+-435345 can be fitted in:
+* int
+* long
+-56545654654645 can be fitted in:
+* long
+123123123123 can be fitted in:
+* long
+56546 can be fitted in:
+* int
+* long
+2341234254 can be fitted in:
+* long
+6756856856745634563 can be fitted in:
+* long
+-123123123123 can be fitted in:
+* long
+-2342342 can be fitted in:
+* int
+* long
+2345235235 can be fitted in:
+* long
+18446744073709551606 can't be fitted anywhere.
+-18446744073709551606 can't be fitted anywhere.
+23423434444444444444 can't be fitted anywhere.
+234234234234234234234 can't be fitted anywhere.
+453456345234234 can be fitted in:
+* long
+4235346305683 can be fitted in:
+* long
+-12312312312312 can be fitted in:
+* long
+4353453 can be fitted in:
+* int
+* long
+42342342342342353456 can't be fitted anywhere.
+-3534634563456456456456456456456456456456456456456 can't be fitted anywhere.
+-12343242342342342342342342343 can't be fitted anywhere.
+-123 can be fitted in:
+* byte
+* short
+* int
+* long
+-345345345 can be fitted in:
+* int
+* long
+-345345 can be fitted in:
+* int
+* long
+123124342355 can be fitted in:
+* long
+234324234234234 can be fitted in:
+* long
+23452453453453453 can be fitted in:
+* long
+-2345234 can be fitted in:
+* int
+* long
+-131231 can be fitted in:
+* int
+* long
+-2342342 can be fitted in:
+* int
+* long
+-456456 can be fitted in:
+* int
+* long
+17 can be fitted in:
+* byte
+* short
+* int
+* long
+9223372036854775808 can't be fitted anywhere.
+9223372036854775807 can be fitted in:
+* long
+-9223372036854775808 can be fitted in:
+* long
+-9223372036854775807 can be fitted in:
+* long
+4294967296 can be fitted in:
+* long
+4294967295 can be fitted in:
+* long
+-4294967296 can be fitted in:
+* long
+-4294967295 can be fitted in:
+* long
+65536 can be fitted in:
+* int
+* long
+65535 can be fitted in:
+* int
+* long
+-65536 can be fitted in:
+* int
+* long
+-65535 can be fitted in:
+* int
+* long
+256 can be fitted in:
+* short
+* int
+* long
+255 can be fitted in:
+* short
+* int
+* long
+-256 can be fitted in:
+* short
+* int
+* long
+-255 can be fitted in:
+* short
+* int
+* long
+12222222222222222222222222222222222222222221 can't be fitted anywhere.
+23423424234234 can be fitted in:
+* long
+-23123123123123123 can be fitted in:
+* long
+-1010000 can be fitted in:
+* int
+* long
