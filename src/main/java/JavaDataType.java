@@ -32,7 +32,7 @@ public class JavaDataType {
         String ret = "";
         if (inputLong >= -128 && inputLong <= 127) System.out.println("* byte");
         if (inputLong >= -Math.pow(2, 15) && inputLong <= (Math.pow(2, 15) - 1)) System.out.println("* short");
-        if (inputLong >= -Math.pow(2, 31) && inputLong <= (Math.pow(2, 31) - 1)) System.out.println("* int");
-        if (inputLong >= -Math.pow(2, 62) && inputLong <= (Math.pow(2, 62) - 1)) System.out.println("* long");
+        if (inputLong >= -Math.pow(2, 31)  && inputLong <= (Math.pow(2, 31) - 1)) System.out.println("* int");
+        if (inputLong >= -Math.pow(2, 63)  && inputLong <= (Math.pow(2, 63) - 1)) System.out.println("* long");
     }
 }
