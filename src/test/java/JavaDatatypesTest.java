@@ -9,7 +9,6 @@ import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.CsvFileSource;
 
 import java.io.IOException;
-import java.lang.reflect.Array;
 import java.nio.charset.Charset;
 import java.nio.file.Files;
 import java.nio.file.Paths;
@@ -109,7 +108,7 @@ class JavaDatatypesTest {
         Charset encoding = Charset.defaultCharset();
         List<String> listStringCSV = Files.readAllLines(Paths.get(path), encoding);
         TestData td = new TestData();
-        ArrayList<TestData> slOutputList = new ArrayList<>();
+        ArrayList<StringBuilder> slOutputList = new ArrayList<>();
         StringBuilder sOutput = new StringBuilder("");
         boolean start = false;
         System.out.println("start scan : " + path);
