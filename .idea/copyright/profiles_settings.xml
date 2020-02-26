@@ -1,7 +1,9 @@
 <component name="CopyrightManager">
   <settings default="ultimasolution.pl">
-    <module2copyright>
-      <element module="All" copyright="ultimasolution.pl" />
-    </module2copyright>
+    <LanguageOptions name="JAVA">
+      <option name="fileTypeOverride" value="3" />
+      <option name="relativeBefore" value="false" />
+      <option name="addBlankAfter" value="false" />
+    </LanguageOptions>
   </settings>
 </component>
